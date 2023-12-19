@@ -79,3 +79,5 @@ flask run
 ### Application Flow. 
 
 **Register Page:**
+**Log In Page:** 
+![Screenshot (124)](https://github.com/Abhishek0732/Xenon_project/assets/93417069/5c636d72-8b89-4e51-8e7e-9924f9c8a2f0)
